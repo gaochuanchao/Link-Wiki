@@ -1,0 +1,7 @@
+#### [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.php)
+#### [KDnuggets Datasets](https://www.kdnuggets.com/datasets/index.html)
+#### [AwesomeData](https://github.com/awesomedata)
+#### [Google Dataset Search](https://datasetsearch.research.google.com/)
+#### [Python For Data Science](https://www.pythonfordatascience.org/home)
+#### [Kaggle Datasets](https://www.kaggle.com/datasets)
+#### [Amazon Web Service](https://registry.opendata.aws/)
